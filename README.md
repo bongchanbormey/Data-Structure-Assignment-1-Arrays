@@ -1,5 +1,5 @@
-### Data-Structure-Assignment-1-Arrays
-* Project Requirements
+## Data-Structure-Assignment-1-Arrays
+### Project Requirements
 1. Both classes should have an array int arr[] as a member variable.
 2. Both classes should have a constructor that accept an integer that is used as the size to initialize
 the arr[].
